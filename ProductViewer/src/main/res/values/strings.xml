@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProductViewer</string>
+    <string name="msg_genericConnectionError">No pudieron encontrase resultados, por favor intente nuevamente</string>
+    <string name="atributte_total">total</string>
+    <string name="atributte_limit">limit</string>
+    <string name="atributte_results">results</string>
+    <string name="atributte_product_title">title</string>
+    <string name="atributte_product_thumbnail">thumbnail</string>
+    <string name="atributte_product_currency">currency_id</string>
+    <string name="atributte_product_price">price</string>
+    <string name="atributte_product_permalink">permalink</string>
+    <string name="msg_getting_products">Obteniendo productos</string>
+    <string name="msg_getting_please_wait">Por favor espere ...</string>
+    <string name="lbl_more"><u>Ver mas</u></string>
+    <string name="msg_ok">OK</string>
+
+
+
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/ApplicationTheme</item>
+    </style>
+
+    <style name="ProductSerchActionBar" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/action_bar_yellow</item>
+     </style>
+
+    <style name="label_common">
+        <item name="android:textColor">@color/font_gray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:clickable">false</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+    </style>
+
+
+    <style name="label_common_bold" parent="label_common">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="label_common_title" parent="label_common_bold">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="label_link" parent="label_common">
+        <item name="android:color">@color/font_red</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+
+</resources>
